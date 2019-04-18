@@ -1,53 +1,62 @@
 {
   "products": [{
       "id": 1,
-      "title": "Product 1",
-      "url": "https://www.familyhandyman.com/wp-content/uploads/2017/12/window_coffee_table.jpg"
+      "title": "Window coffe table",
+      "url": "https://www.familyhandyman.com/wp-content/uploads/2017/12/window_coffee_table.jpg",
+      "price": 132
     },
     {
       "id": 2,
-      "title": "Product 2",
-      "url": "https://www.familyhandyman.com/wp-content/uploads/2017/12/dfh9_birchlogtable.jpg"
+      "title": "Birch Log Coffee Table",
+      "url": "https://www.familyhandyman.com/wp-content/uploads/2017/12/dfh9_birchlogtable.jpg",
+      "price": 564
     },
     {
       "id": 3,
-      "title": "Product 3",
-      "url": "https://www.familyhandyman.com/wp-content/uploads/2017/12/dfh8_industrialtable.jpg"
+      "title": "Industrial Style Table",
+      "url": "https://www.familyhandyman.com/wp-content/uploads/2017/12/dfh8_industrialtable.jpg",
+      "price": 214
     },
     {
       "id": 4,
-      "title": "Product 4",
-      "url": "https://www.familyhandyman.com/wp-content/uploads/2017/12/dfh1_doortable.jpg"
+      "title": "Door Slab Table",
+      "url": "https://www.familyhandyman.com/wp-content/uploads/2017/12/dfh1_doortable.jpg",
+      "price": 216
     },
     {
       "id": 5,
-      "title": "Product 5",
-      "url": "https://www.familyhandyman.com/wp-content/uploads/2017/11/FH09MAY_498_52_023.jpg"
+      "title": "Polished Concrete Table",
+      "url": "https://www.familyhandyman.com/wp-content/uploads/2017/11/FH09MAY_498_52_023.jpg",
+      "price": 696
     },
     {
       "id": 6,
-      "title": "Product 6",
+      "title": "Infinity Table",
       "url": "https://www.familyhandyman.com/wp-content/uploads/2017/11/FH00NOV_02140001.jpg"
     },
     {
       "id": 7,
-      "title": "Product 7",
-      "url": "https://www.familyhandyman.com/wp-content/uploads/2017/12/df4_reclaimedtable.jpg"
+      "title": "Hefty Reclaimed Lumber Table",
+      "url": "https://www.familyhandyman.com/wp-content/uploads/2017/12/df4_reclaimedtable.jpg",
+      "price": 456
     },
     {
       "id": 8,
-      "title": "Product 8",
-      "url": "https://www.familyhandyman.com/wp-content/uploads/2017/12/dfh5_winecratetable.jpg"
+      "title": "Wine Crate Table",
+      "url": "https://www.familyhandyman.com/wp-content/uploads/2017/12/dfh5_winecratetable.jpg",
+      "price": 869
     },
     {
       "id": 9,
-      "title": "Product 9",
-      "url": "https://www.familyhandyman.com/wp-content/uploads/2017/12/dfh6_nestedtables.jpg"
+      "title": "Nested Coffee Tables",
+      "url": "https://www.familyhandyman.com/wp-content/uploads/2017/12/dfh6_nestedtables.jpg",
+      "price": 213
     },
     {
       "id": 10,
-      "title": "Product 10",
-      "url": "https://www.familyhandyman.com/wp-content/uploads/2017/12/dfh7_ottomantable.jpg"
+      "title": "Ottoman Coffee Table Hybrid",
+      "url": "https://www.familyhandyman.com/wp-content/uploads/2017/12/dfh7_ottomantable.jpg",
+      "price": 369
     }
   ]
 }
